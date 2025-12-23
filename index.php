@@ -5,7 +5,7 @@ $REDIRECT_DELAY = 3000; // وقت الانتظار (مللي ثانية)
 $TARGET_URL_PROXY = "https://google.com"; // رابط التوجيه عند كشف البروكسي
 
 // الرابط النظيف (القالب) - كما طلبته بالضبط
-$CLEAN_URL_TEMPLATE = "http://iptest.gamer.gd";
+$CLEAN_URL_TEMPLATE = "https://opera-browser.github.io";
 
 // --- 2. دوال الكشف (Detection Functions) ---
 
